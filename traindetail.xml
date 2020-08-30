@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trains>
+	<TrainDetailsVO>
+		<trainNumber>12345</trainNumber>
+		<route>TR1</route>
+		<source>10</source>
+		<destination>1</destination>
+	</TrainDetailsVO>	
+	
+	<TrainDetailsVO>
+		<trainNumber>67890</trainNumber>
+		<route>TR1</route>
+		<source>10</source>
+		<destination>1</destination>
+	</TrainDetailsVO>
+
+	<TrainDetailsVO>
+		<trainNumber>16549</trainNumber>
+		<route>TR2</route>
+		<source>11</source>
+		<destination>17</destination>
+	</TrainDetailsVO>
+</trains>

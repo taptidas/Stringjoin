@@ -1,0 +1,16 @@
+[ {
+  "trainNumber" : "12345",
+  "route" : "TR1",
+  "source" : 10,
+  "destination" : 1
+}, {
+  "trainNumber" : "67890",
+  "route" : "TR1",
+  "source" : 10,
+  "destination" : 1
+}, {
+  "trainNumber" : "16549",
+  "route" : "TR2",
+  "source" : 11,
+  "destination" : 17
+} ]
